@@ -1,0 +1,143 @@
+.legion-top-main
+{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.legion-top-main h1
+{
+    font-size: 50px;
+}
+.legion-top-main p
+{
+    font-size: 20px;
+    font-weight: 300;
+    width: 45%;
+    text-align: center;
+    margin-top: 20px;
+}
+.legion-img
+{
+    width: 550px;
+    height: 450px;
+    border-radius: 20px;
+    background-color: #F4F4F4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.legion-img img
+{
+    width: 500px;
+    height: 400px;
+}
+.legion-main-1
+{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    align-items: center;
+
+    width: 90%;
+    margin: 0 auto;
+}
+.legion-ch
+{
+
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 40%;
+
+
+}
+.legion-ch-1
+{
+    display: flex;
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+.legion-ch-1 p
+{
+    margin-left: 10px;
+}
+.legion-ch p:first-child
+{
+    color:#FC4B37;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+.legion-ch-p-2
+{
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.legion-ch h1
+{
+    font-size: 50px;
+    width: 50%;
+}
+.legion-main-2
+{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    align-items: center;
+
+    width: 90%;
+    margin: 0 auto;
+
+}
+.legion-ch-2
+{
+    margin-right: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 40%;
+
+
+}
+.legion-ch-2 h1
+{
+    font-size: 50px;
+
+}
+.legion-ch-2 p:first-child
+{
+    color:#FC4B37;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+.legion-ch-2-p-2
+{
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 85%;
+}
+.legion-img-2
+{
+    width: 550px;
+    height: 450px;
+    border-radius: 20px;
+    background-color: #F4F4F4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.legion-img-2 img
+{
+    width: 500px;
+    height: 400px;
+}

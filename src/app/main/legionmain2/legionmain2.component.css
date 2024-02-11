@@ -1,0 +1,71 @@
+.service
+{
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.service h1
+{
+    font-size: 45px;
+}
+.service-column-1
+{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.service-container
+{
+    width: 370px;
+    height: 240px;
+    background-color: #F4F4F4;
+    border-radius: 25px;
+
+}
+.circle
+{
+    width: 40px;
+    height: 40px;
+    background-color: #FC4B371F;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.service-container h3
+{
+    font-size: 20px;
+    margin-left: 15px;
+}
+.service-container p
+{
+    font-size: 16px;
+    margin-left: 15px;
+    font-weight: 300;
+    margin-top: 20px;
+    line-height: 1.5;
+}
+.btn
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+.btn button
+{
+    width: 200px;
+    height: 56px;
+    background-color: #FC4B37;
+    border: none;
+    color: white;
+    border-radius: 100px;
+    font-size: 16px;
+}

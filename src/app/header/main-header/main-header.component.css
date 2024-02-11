@@ -1,0 +1,27 @@
+.main-header-text
+{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.main-header-text h1
+{
+    color: white;
+    font-size: 60px;
+}
+.main-header-photo
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+
+}
+.main-header-photo img
+{
+    width: 1000px;
+    height: 500px;
+}
